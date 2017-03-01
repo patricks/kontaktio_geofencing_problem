@@ -1,11 +1,11 @@
 PODS:
-  - KontaktSDK (1.4.0)
+  - KontaktSDK (1.4.1)
 
 DEPENDENCIES:
   - KontaktSDK (~> 1.3)
 
 SPEC CHECKSUMS:
-  KontaktSDK: 2a207477edea5423b5b2db9c483c63e9b348b090
+  KontaktSDK: 7e741c50f4e2a309e88cecf45fd1e3baaf0d7cb5
 
 PODFILE CHECKSUM: ad5638badaefac48c688d9ef3ea0208795e1ca48
 
